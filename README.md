@@ -2,4 +2,4 @@
 New repository
 Hello ,
 Sthuthi here, I am a student and I like ccoding.
-I code C,C++, Java and Python.
+I code in C,C++, Java and Python.
